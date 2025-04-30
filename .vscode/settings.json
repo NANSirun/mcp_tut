@@ -1,0 +1,9 @@
+{
+    "pasteImage.path": "${currentFileDir}/images",
+    "pasteImage.basePath": "${workspaceRoot}",
+    "pasteImage.prefix": "/images",
+    "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+    "pasteImage.nameSuffix": "_${currentDate}_${currentTime}",
+    "pasteImage.insertPattern": "![${imageName}](${imagePath})"
+
+}
